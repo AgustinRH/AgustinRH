@@ -19,36 +19,31 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinRH&theme=radical" height="180" alt="AgustinRH's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgustinRH&theme=radical" height="180" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinRH&theme=radical" height="200" alt="AgustinRH's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgustinRH&theme=radical" height="200" alt="Top Languages" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinRH&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
-### � Sobre mí
+### 💡 Sobre mí
 
-🎓 Actualmente cursando el segundo año de Desarrollo de Aplicaciones Web. Me apasiona crear soluciones eficientes y aprender nuevas tecnologías. Mi enfoque abarca tanto el Frontend como el Backend, buscando siempre escribir código limpio y escalable.
+* **Estudios:** Actualmente cursando el **segundo año** de Desarrollo de Aplicaciones Web (DAW).
+* **Pasión:** Me apasiona crear **soluciones eficientes** y aprender nuevas tecnologías constantemente.
+* **Enfoque:** Mi trabajo abarca tanto el **Frontend** como el **Backend**, buscando siempre escribir **código limpio y escalable**.
 
 ---
 
 ### 📫 Contacto
 
-<!-- Puedes reemplazar los enlaces con tus perfiles reales -->
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://linkedin.com/in/agustin-rubi-hernandez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:agusrubher@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
