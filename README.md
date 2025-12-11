@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular&theme=dark" alt="Frontend Tech Stack" />
     <br/>
     <h2>Backend & Database</h2>
-    <img src="https://skillicons.dev/icons?i=java,python,php,laravel,fastapi,nestjs,mysql,mariadb&theme=dark" alt="Backend & Database Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,laravel,fastapi,nestjs,mysql,mariadb,docker&theme=dark" alt="Backend & Database Tech Stack" />
 </div>
 
 ---
