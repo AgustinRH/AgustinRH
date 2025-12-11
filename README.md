@@ -21,8 +21,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinRH&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="AgustinRH's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinRH&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinRH&theme=radical" height="180" alt="AgustinRH's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgustinRH&theme=radical" height="180" alt="Top Languages" />
 </div>
 
 <br/>
