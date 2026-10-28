@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Agustin 👋
 
-### Estudiante de 2º de Desarrollo Web (DAW)
+### Desarrollador Web Full Stack
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&random=false&width=435&lines=Full+Stack+Developer+in+training;Java+%7C+Angular+%7C+Python+%7C+Laravel;Learning+every+day...)](https://git.io/typing-svg)
 
